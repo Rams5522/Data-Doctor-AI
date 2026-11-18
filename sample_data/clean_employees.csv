@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,department,salary,hire_date
+1001,John,Doo,Engineering,75000,2020-01-15
+1002,Jane,Smith,Marketing,68000,2019-03-22
+1003,Bob,Johnson,Engineering,82000,2021-07-10
+1004,Alice,Brown,Sales,65000,2020-11-05
+1005,Charlie,Wilson,Engineering,79000,2021-02-18
+1006,David Lee,Lee,HR,60000,2020-09-30
+1007,Eva,Garcia,Marketing,71000,2021-05-14
+1008,Frank,Miller,Sales,66000,2020-12-03
+1009,Grace,Anderson,Engineering,83000,2021-08-22
+1010,Henry,Taylor,HR,62000,2020-04-17
